@@ -12,7 +12,7 @@ A multi-year Tableau analysis identifying which U.S. regions and product lines a
 
 ## What the Map Shows
 
-Profit ratio across states ranges from -17.42% to 34.33% — a wide enough spread that "regional sales" alone tells you almost nothing about where the business is actually making money.
+Profit ratio across states ranges from -17.42% to 34.33% a wide enough spread that "regional sales" alone tells you almost nothing about where the business is actually making money.
 
 - Best-performing states: Georgia, Virginia, Tennessee
 - Worst-performing states: North Carolina, Tennessee
