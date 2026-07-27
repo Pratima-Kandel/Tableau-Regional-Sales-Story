@@ -1,6 +1,6 @@
 # Regional Sales & Profit Tableau Story
 
-A multi-year Tableau analysis identifying which U.S. regions and product lines are actually profitable — and which ones are quietly losing money.
+A multi-year Tableau analysis identifying which U.S. regions and product lines are actually profitable and which ones are quietly losing money.
 
 ---
 
@@ -17,7 +17,7 @@ Profit ratio across states ranges from -17.42% to 34.33% — a wide enough sprea
 - Best-performing states: Georgia, Virginia, Tennessee
 - Worst-performing states: North Carolina, Tennessee
 
-Tennessee shows up on both ends, which was the most interesting part of this analysis — high sales volume doesn't guarantee high profit, and this dashboard is built specifically to separate the two.
+Tennessee shows up on both ends, which was the most interesting part of this analysis high sales volume doesn't guarantee high profit, and this dashboard is built specifically to separate the two.
 
 ---
 
